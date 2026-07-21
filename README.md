@@ -29,6 +29,14 @@ Both feature sets are fused together to predict the final house price.
 
 ---
 
+## 📸 Application Preview
+
+Add screenshots of your Streamlit application here.
+
+<p align="center">
+  <img src="mental_health.gif" alt="" width="900">
+</p>
+
 # 🚀 Features
 
 - Custom CNN (No Pretrained Model)
