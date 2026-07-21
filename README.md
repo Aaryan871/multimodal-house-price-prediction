@@ -34,7 +34,7 @@ Both feature sets are fused together to predict the final house price.
 Add screenshots of your Streamlit application here.
 
 <p align="center">
-  <img src="mental_health.gif" alt="" width="900">
+  <img src="House Price Prediction.gif" alt="house-price-prediction" width="900">
 </p>
 
 # 🚀 Features
